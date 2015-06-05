@@ -1,0 +1,25 @@
+{
+  "name": "jquery.smartbanner",
+  "main": "jquery.smartbanner.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/kijart/jquery.smartbanner",
+  "authors": [
+    "Arnold Daniels <arnold@jasny.net>"
+  ],
+  "description": "Smart Banner support for iOS and Android",
+  "keywords": [
+    "jquery",
+    "smartbanner",
+    "ios",
+    "android",
+    "windows phone"
+  ],
+  "license": "LICENSE",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
